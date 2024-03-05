@@ -20,10 +20,15 @@ Future Trends: Predictions on the future of music streaming and Spotify's role i
 
 This project was brought to life through the dedication and hard work of the following team members:
 Denzil Ritesh
+
 Riju Humagain
+
 Pranali Pradeep Pawar
+
 Anirudh Ravikumar Nair
+
 Akshitha Mohan Shirva
+
 Subodh Kadam
 
 **Presentation Deck**
