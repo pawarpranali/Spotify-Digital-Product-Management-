@@ -7,9 +7,13 @@ Welcome to the repository containing our detailed analysis and presentation on S
 Our presentation delves into various aspects of Spotify, including:
 
 Spotify's Business Model: An exploration of how Spotify generates revenue while providing value to its users and artists.
+
 User Engagement and Personalization: Strategies employed by Spotify to enhance user experience and retain its user base.
+
 Impact on Artists and the Music Industry: An analysis of how Spotify has transformed the music industry's landscape.
+
 Technological Advancements: The technological challenges and innovations Spotify has navigated through its journey.
+
 Future Trends: Predictions on the future of music streaming and Spotify's role in shaping it.
 
 **Team Members**
